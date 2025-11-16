@@ -13,7 +13,7 @@ Case-insensitive check
 Unified JSON response format
 Fully deployed and publicly accessible
 
-Public Endpoint: https://cloud-ai-openai-api.onrender.com/api/ask
+Public Endpoint: https://cloud-ai-openai-api.onrender.com
 
 Example Request:
 
